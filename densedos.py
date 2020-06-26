@@ -119,7 +119,7 @@ class MonitorThread(threading.Thread):
 		previous=request_counter
 		while flag==0:
 			if (previous+100<request_counter) & (previous<>request_counter):
-				prGreen("%d Requests Sent") % (request_counter)
+				print "%d Requests Sent" % (request_counter)
 				previous=request_counter
 		if flag==2:
 			prRed("\n Dos attack is completed")
