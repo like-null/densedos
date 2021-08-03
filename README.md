@@ -1,4 +1,4 @@
-# densedos
+# Densedos
 <h1>Intro</h1>
 <br>
 Dense Dos is powerful dos tool, and it works on average internet connection also. And it has been made form scratch and little bit idea and code of HULK is also used here.
