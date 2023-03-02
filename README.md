@@ -11,7 +11,7 @@ Dense Dos is powerful dos tool, and it works on average internet connection also
 <br>
 <h1>Requirements</h1>
 1. Average Internet Connection.(Fast connection recommended)<br>
-2. Python3<br>
+2. Python2<br>
 3. Brain<br>
 <br>
 <br>
